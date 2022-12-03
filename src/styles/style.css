@@ -79,7 +79,7 @@ p {
 
   /* background-image: url("images/peaceful-wallpaper-2048x1536.jpg"); */
   background-size: cover;
-  background-color: snow;
+  background-color: rgba(234, 197, 197, 0.56);
 }
 
 
@@ -226,6 +226,14 @@ progress::-moz-progress-bar {
 
 #contacts {
   text-align: center;
+}
+
+/* Contact Box */
+#contact-form{
+  margin-left: 40%;
+  width: 50%;
+  
+  padding: 10px;
 }
 
 /*Screenchange*/

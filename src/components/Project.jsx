@@ -13,16 +13,16 @@ import Project5 from "../images/pexels-photo-4297438.jpeg"
 // We are assigning the card, heading, and content all from our `style` object
 function Card() {
   return (
-    <div class="section" id="res">
+    <div className="section" id="res">
             <h1 id="myworks"><span>My Work</span></h1>
 
-              <div class="row">
-                <div class="columns">
-                  <img href="" id="first_project" src={Logo}   alt="Project Preview"/>
+              <div className="row">
+                <div className="columns">
+                  <a href="https://combat-arena-game.herokuapp.com/login"><img  id="first_project" src={Logo}   alt="Project Preview"/></a>
                   <img src={Project1}   alt="Project Preview"/>
                   <img src={Project2}   alt="Project Preview"/>
                 </div>
-                <div class="columns">
+                <div className="columns">
                    <img src={Project3} alt="Project Preview"/>     
                   <img src={Project4}  alt="Project Preview"/>
                   <img src={Project5}  alt="Project Preview"/> 

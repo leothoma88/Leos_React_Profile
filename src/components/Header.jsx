@@ -18,16 +18,16 @@ import '../styles/style.css';
 // };
 
 // In Navbar, we can assign a style from an object by using curly braces
-function Navbar() {
+function Header() {
   return (
-    <div id="header" class="section">
-            {/* <img alt="logo" class="img-circle" src="images/IMG_2798.jpg">  */}
-            <p class="tiler">Darrell Leo Thomas</p>
+    <div id="header" className="section">
+         
+            <p className="tiler">Darrell Leo Thomas</p>
         </div>
   );
 }
 
-export default Navbar;
+export default Header;
 
 
 

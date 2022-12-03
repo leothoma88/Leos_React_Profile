@@ -7,10 +7,10 @@ import '../styles/style.css';
 
 // In `Card`, we can assign a style from an object by using curly braces
 // We are assigning the card, heading, and content all from our `style` object
-function Socialnetwork() {
+function Footer() {
   return (
  
-    <div class="section" id="contacts">
+    <div className="section" id="contacts">
         <h1 id="social"><span>Follow Me</span></h1>
 
          <div>
@@ -29,10 +29,11 @@ function Socialnetwork() {
             <a href="null">
             <img alt="YouTube" src="https://img.icons8.com/color/96/000000/youtube-play.png"/>
             </a>
-            <a href="null">
-            <img alt="Email" src="https://img.icons8.com/fluent/96/000000/gmail.png"/>
-            </a>
+              
         </div> 
+    <a href="mailto:leothoma88@gmail.com">
+        <img src="https://img.icons8.com/fluent/95/000000/gmail--v2.png" alt='Gmail'/>
+        </a>
 
     </div>
 
@@ -40,4 +41,4 @@ function Socialnetwork() {
   );
 }
 
-export default Socialnetwork;
+export default Footer;
