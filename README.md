@@ -14,5 +14,5 @@ Heres the live site.
 
  [Portfolio](https://leothoma88.github.io/Leos_React_Profile/) 
 
-  [Repository](https://leothoma88.github.io/Leos_React_Profile/) 
+  [Repository](https://github.com/leothoma88/Leos_React_Profile) 
 
