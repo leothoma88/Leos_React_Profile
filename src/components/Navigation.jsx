@@ -6,7 +6,7 @@ import {Link} from 'react-router-dom'
 function Navbar() {
   return (
     <div className="topnav">
-            <Link className="active" to='/'>About Me</Link>
+            <Link className="active" to='/Leos_React_Profile'>About Me</Link>
             <Link className="active" to='/portfolio'>Portfolio</Link>
             <Link className="active" to='/contact'>Contact Me</Link>
             <Link className="active" to='/resume'>Resume</Link>

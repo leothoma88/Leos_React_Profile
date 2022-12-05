@@ -16,7 +16,7 @@ function Main(){
         <Navigation/>
         <Header/>
         <Routes>
-        <Route path="/" element= {<Aboutme/>}/>
+        <Route path="/Leos_React_Profile" element= {<Aboutme/>}/>
         <Route path="/portfolio" element= {<Project/>}/>
         <Route path="/contact" element= {<Contact/>}/>
         <Route path="/resume" element= {<Resume/>}/>
