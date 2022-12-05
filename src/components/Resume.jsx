@@ -18,7 +18,7 @@ function Resume() {
                 <li>CSS<br /> <progress min="0" max="100" value="100"></progress> </li>
             </ul>
             <h1><span>My Resume</span></h1>
-            <a href="/images/Screen Shot 2022-12-03 at 4.33.11 PM.png" download="Screen Shot 2022-12-03 at 4.33.11 PM.png"><img id="first_project" alt="Resume"  src={LeosResume}></img></a>
+            <a href={LeosResume} download><img id="first_project" alt="Resume"  src={LeosResume}></img></a>
 
         </div>
   )}
