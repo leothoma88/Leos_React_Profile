@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Leos_React_Profile/static/css/main.727ac358.css",
-    "main.js": "/Leos_React_Profile/static/js/main.d8ba3094.js",
+    "main.js": "/Leos_React_Profile/static/js/main.9c57660b.js",
     "static/media/Screen Shot 2022-10-20 at 3.40.22 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-10-20 at 3.40.22 PM.49c98419eb26e672d06b.png",
     "static/media/Screen Shot 2022-12-03 at 4.33.11 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-03 at 4.33.11 PM.30eea52651e85be1256c.png",
     "static/media/IMG_2798.jpg": "/Leos_React_Profile/static/media/IMG_2798.8ea58ecb1ee66b6090f4.jpg",
@@ -12,10 +12,10 @@
     "static/media/pexels-photo-4194842.webp": "/Leos_React_Profile/static/media/pexels-photo-4194842.baa7510970a7a8129263.webp",
     "index.html": "/Leos_React_Profile/index.html",
     "main.727ac358.css.map": "/Leos_React_Profile/static/css/main.727ac358.css.map",
-    "main.d8ba3094.js.map": "/Leos_React_Profile/static/js/main.d8ba3094.js.map"
+    "main.9c57660b.js.map": "/Leos_React_Profile/static/js/main.9c57660b.js.map"
   },
   "entrypoints": [
     "static/css/main.727ac358.css",
-    "static/js/main.d8ba3094.js"
+    "static/js/main.9c57660b.js"
   ]
 }
