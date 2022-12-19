@@ -1,7 +1,7 @@
 import React from 'react';
 import '../styles/style.css';
 import Logo from "../images/Screen Shot 2022-10-20 at 3.40.22 PM.png"
-import Project1 from "../images/pexels-photo-3222386.jpeg"
+import Project1 from "../images/Screen Shot 2022-12-19 at 4.20.17 PM.png"
 import Project2 from "../images/pexels-photo-4194842.webp"
 import Project3 from "../images/pexels-photo-3597031.jpeg"
 import Project4 from "../images/pexels-photo-1187766.jpg"
@@ -19,8 +19,7 @@ function Card() {
               <div className="row">
                 <div className="columns">
                   <a href="https://combat-arena-game.herokuapp.com/login"><img  id="first_project" src={Logo}   alt="Project Preview"/></a>
-                  <img src={Project1}   alt="Project Preview"/>
-                  <img src={Project2}   alt="Project Preview"/>
+                  <a id="second_project" href="https://giveback-app2.herokuapp.com/"><img src={Project1} alt="Project Preview2"/></a>
                 </div>
                 <div className="columns">
                    <img src={Project3} alt="Project Preview"/>     
