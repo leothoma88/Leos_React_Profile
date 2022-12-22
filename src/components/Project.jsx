@@ -20,7 +20,7 @@ function Card() {
               <a className='hover:opacity-50' href="https://combat-arena-game.herokuapp.com/login"><img  id="first_project" src={Logo}   alt="Project Preview"/></a>
                 <div className="grid sm:grid-cols-4 grid-cols-1 gap-4 ">
                   <div><a className='hover:opacity-50' href="https://giveback-app2.herokuapp.com/"><img className="h-90 md:h-full" src={Project1} alt="Project Preview2"/></a></div>
-                  <a className='hover:opacity-50' href="https://shawnbandy.github.io/SwiftNews/"><img src={Project3} alt="Project Preview"/></a>    
+                  <a className='hover:opacity-50' href="https://shawnbandy.github.io/SwiftNews/"><img className="h-90 md:h-full" src={Project3} alt="Project Preview"/></a>    
                   <a className='hover:opacity-50'><img src={Project4}  alt="Project Preview"/></a>
                   <a className='hover:opacity-50'><img src={Project5}  alt="Project Preview"/></a>
                 </div>
