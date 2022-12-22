@@ -6,7 +6,7 @@ As a candidates with experience building single-page applications I want to show
 
 The following image demonstrates the web application's appearance:
 
-![My portfolio page](./src/images/Screen%20Shot%202022-12-03%20at%205.25.54%20PM.png)
+![My portfolio page](./src/images/Screen Shot 2022-12-21 at 9.29.57 PM.png)
 
 ## 🏆 Link
 
