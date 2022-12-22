@@ -6,7 +6,7 @@ import Aboutme from './Aboutme';
 import Project from './Project';
 import Resume from './Resume';
 import Contact from './Contact';
-import {Routes,Route,Navigate,withRouter} from 'react-router-dom'
+import {Routes,Route} from 'react-router-dom'
 
 
 

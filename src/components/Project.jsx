@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/style.css';
+
 import Logo from "../images/Screen Shot 2022-10-20 at 3.40.22 PM.png"
 import Project1 from "../images/Screen Shot 2022-12-19 at 4.20.17 PM.png"
 import Project2 from "../images/pexels-photo-4194842.webp"
@@ -17,14 +17,15 @@ function Card() {
             <h1 id="myworks"><span>My Work</span></h1>
 
               <div className="row">
-                <div className="columns">
-                  <a href="https://combat-arena-game.herokuapp.com/login"><img  id="first_project" src={Logo}   alt="Project Preview"/></a>
-                  <a id="second_project" href="https://giveback-app2.herokuapp.com/"><img src={Project1} alt="Project Preview2"/></a>
+              <a className='hover:opacity-50' href="https://combat-arena-game.herokuapp.com/login"><img  id="first_project" src={Logo}   alt="Project Preview"/></a>
+                <div className="grid grid-cols-4 gap-4">
+                  <a className='hover:opacity-50' href="https://giveback-app2.herokuapp.com/"><img src={Project1} alt="Project Preview2"/></a>
+                  <a className='hover:opacity-50'><img src={Project3} alt="Project Preview"/></a>    
+                  <a className='hover:opacity-50'><img src={Project4}  alt="Project Preview"/></a>
+                  <a className='hover:opacity-50'><img src={Project5}  alt="Project Preview"/></a>
                 </div>
                 <div className="columns">
-                   <img src={Project3} alt="Project Preview"/>     
-                  <img src={Project4}  alt="Project Preview"/>
-                  <img src={Project5}  alt="Project Preview"/> 
+                   
                 </div>  
               </div>
     </div>

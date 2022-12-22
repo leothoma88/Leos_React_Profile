@@ -1,3 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 html {
   margin: 0;
@@ -5,9 +8,9 @@ html {
 }
 /*BODY*/
 body {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family: sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 10pt;
-  background-color: #1927a54d;
+  background-color: black;
   padding: 20px;
   margin: 0;
   
@@ -39,7 +42,7 @@ body {
 
 /* Add a color to the active/current link */
 .topnav a.active {
-  background-color: #432eb6;
+  background-color: #1B1B1B;
   color: white;
 }
 
@@ -67,7 +70,7 @@ p {
 
 
 .section {
-  background-color: rgb(231, 207, 207);
+  background-color: rgb(20, 20, 20);
   padding: 20px;
   margin-bottom: 10px;
   border-radius: 30px;
@@ -79,7 +82,7 @@ p {
 
   /* background-image: url("images/peaceful-wallpaper-2048x1536.jpg"); */
   background-size: cover;
-  background-color: rgba(234, 197, 197, 0.56);
+  background-color: rgb(27, 27, 27);
 }
 
 
@@ -104,8 +107,8 @@ p {
 }
 
 .img-circle {
-  border: 8px solid rgb(7, 3, 3);
-  border-radius: 50%;
+  border: 8px solid rgb(255, 255, 255);
+  
 }
 
 /*Project Layout*/
@@ -137,7 +140,7 @@ p {
 }
 
 #titleoffirstproject {
-  color: #2f2f2f;
+  color: white;
   font-size:x-large;
 }
 
@@ -150,8 +153,7 @@ p {
 #aboutmewords {
   text-align: center;
   margin: 50px;
-  color: #2f2f2f;
-  
+  color: #F3F3F3;
   font-size: larger;
   background-color: rgba(185, 102, 102, 0.029);
 }

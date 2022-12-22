@@ -1,6 +1,6 @@
 import React from 'react';
 // Here we are importing a CSS file as a dependency
-import '../styles/style.css';
+
 import {Link} from 'react-router-dom'
 
 function Navbar() {
