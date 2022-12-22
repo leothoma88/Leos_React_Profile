@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/Leos_React_Profile/static/css/main.24414dd0.css",
-    "main.js": "/Leos_React_Profile/static/js/main.0aaf34c1.js",
+    "main.js": "/Leos_React_Profile/static/js/main.61d16ac2.js",
     "static/media/Screen Shot 2022-10-20 at 3.40.22 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-10-20 at 3.40.22 PM.49c98419eb26e672d06b.png",
-    "static/media/Screen Shot 2022-12-22 at 12.03.44 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.03.44 PM.7ce906fae451c949caec.png",
+    "static/media/Screen Shot 2022-12-22 at 12.03.44 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.03.44 PM.d6b44a69c7480b81a4d6.png",
+    "static/media/Screen Shot 2022-12-22 at 12.12.23 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.12.23 PM.ae6d124d9d6a4597bbee.png",
     "static/media/Screen Shot 2022-12-03 at 4.33.11 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-03 at 4.33.11 PM.30eea52651e85be1256c.png",
     "static/media/IMG_1652.jpg": "/Leos_React_Profile/static/media/IMG_1652.862f451ac3e664b8ad0f.jpg",
-    "static/media/Screen Shot 2022-12-22 at 12.12.23 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.12.23 PM.f7a78b7b1c3645b90f13.png",
     "static/media/pexels-photo-4297438.jpeg": "/Leos_React_Profile/static/media/pexels-photo-4297438.a0bdeabc0ea83a4d4f14.jpeg",
     "static/media/pexels-photo-1187766.jpg": "/Leos_React_Profile/static/media/pexels-photo-1187766.498d5bf13b87dfa925e0.jpg",
     "static/media/pexels-photo-4194842.webp": "/Leos_React_Profile/static/media/pexels-photo-4194842.baa7510970a7a8129263.webp",
     "index.html": "/Leos_React_Profile/index.html",
     "main.24414dd0.css.map": "/Leos_React_Profile/static/css/main.24414dd0.css.map",
-    "main.0aaf34c1.js.map": "/Leos_React_Profile/static/js/main.0aaf34c1.js.map"
+    "main.61d16ac2.js.map": "/Leos_React_Profile/static/js/main.61d16ac2.js.map"
   },
   "entrypoints": [
     "static/css/main.24414dd0.css",
-    "static/js/main.0aaf34c1.js"
+    "static/js/main.61d16ac2.js"
   ]
 }
