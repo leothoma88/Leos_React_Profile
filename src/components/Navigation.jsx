@@ -5,7 +5,7 @@ import {Link} from 'react-router-dom'
 
 function Navbar() {
   return (
-    <div className="topnav">
+    <div className="topnav flex">
             <Link className="active" to='/Leos_React_Profile'>About Me</Link>
             <Link className="active" to='/portfolio'>Portfolio</Link>
             <Link className="active" to='/contact'>Contact Me</Link>

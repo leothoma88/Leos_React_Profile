@@ -7,7 +7,7 @@ function Footer() {
     <div className="section" id="contacts">
         <h1 id="social"><span>Follow Me</span></h1>
 
-         <div className='flex flex-row justify-center'>
+         <div className='justify-center flex flex-row '>
             <a href="https://www.instagram.com/champeion/?hl=en" target="_blank">
             <img alt="Instagram" src="https://img.icons8.com/cute-clipart/100/instagram-new.png"/>
             </a>
