@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Leos_React_Profile/static/css/main.24414dd0.css",
-    "main.js": "/Leos_React_Profile/static/js/main.61d16ac2.js",
-    "static/media/Screen Shot 2022-10-20 at 3.40.22 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-10-20 at 3.40.22 PM.49c98419eb26e672d06b.png",
-    "static/media/Screen Shot 2022-12-22 at 12.03.44 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.03.44 PM.d6b44a69c7480b81a4d6.png",
-    "static/media/Screen Shot 2022-12-22 at 12.12.23 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-22 at 12.12.23 PM.ae6d124d9d6a4597bbee.png",
-    "static/media/Screen Shot 2022-12-03 at 4.33.11 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-12-03 at 4.33.11 PM.30eea52651e85be1256c.png",
+    "main.css": "/Leos_React_Profile/static/css/main.31deeffb.css",
+    "main.js": "/Leos_React_Profile/static/js/main.6a546439.js",
+    "static/media/black_plate.mov": "/Leos_React_Profile/static/media/black_plate.fc9f2e315d3211b4d363.mov",
+    "static/media/combatgif3.gif": "/Leos_React_Profile/static/media/combatgif3.cd13769d43e9c52e3a4d.gif",
+    "static/media/Screen Shot 2022-08-21 at 8.44.28 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-08-21 at 8.44.28 PM.c88507ce23e4071debdf.png",
+    "static/media/Screen Shot 2023-01-12 at 8.47.42 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-01-12 at 8.47.42 PM.70ed2f5aa01c39a90658.png",
+    "static/media/giveBack-homepage1.png": "/Leos_React_Profile/static/media/giveBack-homepage1.550b2cd49b426042aac3.png",
     "static/media/IMG_1652.jpg": "/Leos_React_Profile/static/media/IMG_1652.862f451ac3e664b8ad0f.jpg",
     "static/media/pexels-photo-4297438.jpeg": "/Leos_React_Profile/static/media/pexels-photo-4297438.a0bdeabc0ea83a4d4f14.jpeg",
     "static/media/pexels-photo-1187766.jpg": "/Leos_React_Profile/static/media/pexels-photo-1187766.498d5bf13b87dfa925e0.jpg",
-    "static/media/pexels-photo-4194842.webp": "/Leos_React_Profile/static/media/pexels-photo-4194842.baa7510970a7a8129263.webp",
+    "static/media/Screen Shot 2023-01-14 at 9.04.12 AM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-01-14 at 9.04.12 AM.0fe0f1b7db28b9b5d959.png",
     "index.html": "/Leos_React_Profile/index.html",
-    "main.24414dd0.css.map": "/Leos_React_Profile/static/css/main.24414dd0.css.map",
-    "main.61d16ac2.js.map": "/Leos_React_Profile/static/js/main.61d16ac2.js.map"
+    "main.31deeffb.css.map": "/Leos_React_Profile/static/css/main.31deeffb.css.map",
+    "main.6a546439.js.map": "/Leos_React_Profile/static/js/main.6a546439.js.map"
   },
   "entrypoints": [
-    "static/css/main.24414dd0.css",
-    "static/js/main.61d16ac2.js"
+    "static/css/main.31deeffb.css",
+    "static/js/main.6a546439.js"
   ]
 }
