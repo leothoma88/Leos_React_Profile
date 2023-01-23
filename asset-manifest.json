@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Leos_React_Profile/static/css/main.31deeffb.css",
-    "main.js": "/Leos_React_Profile/static/js/main.6a546439.js",
+    "main.js": "/Leos_React_Profile/static/js/main.3952b322.js",
     "static/media/black_plate.mov": "/Leos_React_Profile/static/media/black_plate.fc9f2e315d3211b4d363.mov",
     "static/media/combatgif3.gif": "/Leos_React_Profile/static/media/combatgif3.cd13769d43e9c52e3a4d.gif",
     "static/media/Screen Shot 2022-08-21 at 8.44.28 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-08-21 at 8.44.28 PM.c88507ce23e4071debdf.png",
@@ -13,10 +13,10 @@
     "static/media/Screen Shot 2023-01-14 at 9.04.12 AM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-01-14 at 9.04.12 AM.0fe0f1b7db28b9b5d959.png",
     "index.html": "/Leos_React_Profile/index.html",
     "main.31deeffb.css.map": "/Leos_React_Profile/static/css/main.31deeffb.css.map",
-    "main.6a546439.js.map": "/Leos_React_Profile/static/js/main.6a546439.js.map"
+    "main.3952b322.js.map": "/Leos_React_Profile/static/js/main.3952b322.js.map"
   },
   "entrypoints": [
     "static/css/main.31deeffb.css",
-    "static/js/main.6a546439.js"
+    "static/js/main.3952b322.js"
   ]
 }
