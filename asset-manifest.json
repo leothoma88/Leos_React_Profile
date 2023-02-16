@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Leos_React_Profile/static/css/main.31deeffb.css",
-    "main.js": "/Leos_React_Profile/static/js/main.3952b322.js",
+    "main.css": "/Leos_React_Profile/static/css/main.2f585fea.css",
+    "main.js": "/Leos_React_Profile/static/js/main.3b5b017d.js",
     "static/media/black_plate.mov": "/Leos_React_Profile/static/media/black_plate.fc9f2e315d3211b4d363.mov",
     "static/media/combatgif3.gif": "/Leos_React_Profile/static/media/combatgif3.cd13769d43e9c52e3a4d.gif",
     "static/media/Screen Shot 2022-08-21 at 8.44.28 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2022-08-21 at 8.44.28 PM.c88507ce23e4071debdf.png",
     "static/media/Screen Shot 2023-01-12 at 8.47.42 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-01-12 at 8.47.42 PM.70ed2f5aa01c39a90658.png",
     "static/media/giveBack-homepage1.png": "/Leos_React_Profile/static/media/giveBack-homepage1.550b2cd49b426042aac3.png",
     "static/media/IMG_1652.jpg": "/Leos_React_Profile/static/media/IMG_1652.862f451ac3e664b8ad0f.jpg",
+    "static/media/Screen Shot 2023-02-15 at 9.37.20 PM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-02-15 at 9.37.20 PM.0cc4bcfa48e3c58506a4.png",
     "static/media/pexels-photo-4297438.jpeg": "/Leos_React_Profile/static/media/pexels-photo-4297438.a0bdeabc0ea83a4d4f14.jpeg",
     "static/media/pexels-photo-1187766.jpg": "/Leos_React_Profile/static/media/pexels-photo-1187766.498d5bf13b87dfa925e0.jpg",
-    "static/media/Screen Shot 2023-01-14 at 9.04.12 AM.png": "/Leos_React_Profile/static/media/Screen Shot 2023-01-14 at 9.04.12 AM.0fe0f1b7db28b9b5d959.png",
     "index.html": "/Leos_React_Profile/index.html",
-    "main.31deeffb.css.map": "/Leos_React_Profile/static/css/main.31deeffb.css.map",
-    "main.3952b322.js.map": "/Leos_React_Profile/static/js/main.3952b322.js.map"
+    "main.2f585fea.css.map": "/Leos_React_Profile/static/css/main.2f585fea.css.map",
+    "main.3b5b017d.js.map": "/Leos_React_Profile/static/js/main.3b5b017d.js.map"
   },
   "entrypoints": [
-    "static/css/main.31deeffb.css",
-    "static/js/main.3952b322.js"
+    "static/css/main.2f585fea.css",
+    "static/js/main.3b5b017d.js"
   ]
 }
